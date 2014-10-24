@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+.img { display: block; margin-left: auto; margin-right: auto }
+/* RainbowStalin */
+#stalin::after {
+    background: url(assets/stalin.png) left top no-repeat;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 399px;
+    width: 800px;
+    position: fixed;
+    bottom: 80px;
+    right: 50px
+    }
+#grass::after {
+    background: url(assets/grass.png) left top repeat-x;
+    content: ".";
+    display: block;
+    font-size: 0;
+    height: 120px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0
+    }
