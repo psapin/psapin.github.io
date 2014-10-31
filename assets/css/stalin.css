@@ -3,7 +3,7 @@
 .img { display: block; margin-left: auto; margin-right: auto }
 /* RainbowStalin */
 #stalin::after {
-    background: url(assets/stalin.gif) left top no-repeat;
+    background: url(../img/stalin.gif) left top no-repeat;
     content: ".";
     display: block;
     font-size: 0;
@@ -14,7 +14,7 @@
     right: 50px
     }
 #grass::after {
-    background: url(assets/grass.png) left top repeat-x;
+    background: url(../img/grass.png) left top repeat-x;
     content: ".";
     display: block;
     font-size: 0;

@@ -6,7 +6,7 @@
 ******************************************/
   
   //Configure below to change URL path to the snow image
-  var snowsrc="assets/head-bounce.gif"
+  var snowsrc="assets/img/head-bounce.gif"
   // Configure below to change number of snow to render
   var no = 10;
   // Configure whether snow should disappear after x seconds (0=never):
